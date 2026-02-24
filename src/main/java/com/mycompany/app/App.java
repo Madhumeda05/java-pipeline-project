@@ -14,6 +14,7 @@ public class App {
         System.out.println("Feature added by feature branch");
     }
 
+
     public String getMessage() {
         return MESSAGE;
     }
